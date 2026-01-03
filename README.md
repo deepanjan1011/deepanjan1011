@@ -2,16 +2,6 @@
 
 I'm a Fullstack Developer based in ***"Chennai"***, building high-performance fullstack systems with AI as the core engine. I specialize in using FastAPI for asynchronous traffic, Rust for memory security and speed, and TypeScript for responsive UIs — focusing on making AI apps usable and instant.
 
-**Highlighted Projects:**
-- **PeerPass** — Peer-to-Peer File Sharing Platform (Sept 2025)  
-  Secure one-to-many file sharing with concurrent downloads via unique access codes. Built using Java Socket Programming & Multithreading, lightweight REST-like endpoints, and responsive UI with Axios & CSS. Deployed on Railway (backend) and Vercel (frontend) for high availability and low-latency communication.  
-  [Live Demo](https://peerpass.vercel.app/) | [Repo](https://github.com/deepanjan1011/PeerPass)
-
-- **Xpenso** — Smart Expense Tracking Platform (Mar 2025)  
-  Full-stack app with Clerk auth, expense management, recurring payments, bar graph visualizations, and AI-powered receipt scanning via Gemini API (>90% accuracy). Includes budget alerts via email when exceeding 90% limits. Built with Next.js, Prisma + PostgreSQL for seamless data persistence.  
-  [Live Demo](https://xpenso-exp.vercel.app/) | [Repo](https://github.com/deepanjan1011/Xpenso)
-
-
 - 🔭 Currently building advanced full-stack projects with AI/ML integrations
 - 🌱 Learning Machine Learning to turn algorithms into usable software, plus AWS, Docker, and Nginx
 - 👯 Looking to collaborate on open-source web apps, AI tools, or full-stack innovations
