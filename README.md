@@ -1,15 +1,27 @@
 ### Hi there 👋, I am Deepanjan! 😁
 
-I'm a Fullstack Developer based in ***"Chennai"***, building high performance fullstack systems with AI as the core engine. I specialize in using FastAPI for asynchronous traffic, Rust for memory security and speed, and TypeScript for responsive UI's, focusing on making AI apps usable and instant.
+I'm a Fullstack Developer based in **"Chennai"**, building high performance fullstack systems with AI as the core engine. I specialize in using FastAPI for asynchronous traffic, Rust for memory security and speed, and TypeScript for responsive UIs, focusing on making AI apps usable and instant.
 
-- 🔭 Currently building advanced full-stack projects with AI/ML integrations
-- 🌱 Learning Machine Learning to turn algorithms into usable software, plus AWS, Docker, and Nginx
-- 👯 Looking to collaborate on open-source web apps, AI tools, or full-stack innovations
-- 💬 Ask me about Next.js, React, TypeScript, Prisma, GenAI/LLMs, socket programming, or expense trackers
-- 📫 Reach me: deepanjanpati@gmail.com 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy story-driven and competitive gaming, cinema, and family time — and I'm fluent in English, German, Hindi, and Odia!
-- 📝 [Resume](https://drive.google.com/file/d/19M5l_0X6EUI0I9w3CORf29C1EX20uCVd/view) | [Portfolio](https://deepanjan.dev/)
+<table border="0">
+  <tr>
+    <td valign="top" width="60%" style="border: none;">
+      <ul>
+        <li>🔭 Currently building advanced full-stack projects with AI/ML integrations</li>
+        <li>🌱 Learning Machine Learning to turn algorithms into usable software, plus AWS, Docker, and Nginx</li>
+        <li>👯 Looking to collaborate on open-source web apps, AI tools, or full-stack innovations</li>
+        <li>💬 Ask me about Next.js, React, TypeScript, Prisma, GenAI/LLMs, socket programming, or expense trackers</li>
+        <li>📫 Reach me: <a href="mailto:deepanjanpati@gmail.com">deepanjanpati@gmail.com</a></li>
+        <li>😄 Pronouns: He/Him</li>
+        <li>⚡ Fun fact: I enjoy story-driven and competitive gaming, cinema, and family time!</li>
+      </ul>
+      <br/>
+      📝 <a href="https://drive.google.com/file/d/19M5l_0X6EUI0I9w3CORf29C1EX20uCVd/view">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
+    </td>
+    <td valign="middle" width="40%" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding GIF" width="100%" />
+    </td>
+  </tr>
+</table>
 
 **Core Tech Stack:**
 
