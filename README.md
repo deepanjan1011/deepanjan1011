@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Deepanjan! 😁
 
-I'm a Fullstack Developer based in ***"Chennai"***, building high-performance fullstack systems with AI as the core engine. I specialize in using FastAPI for asynchronous traffic, Rust for memory security and speed, and TypeScript for responsive UIs — focusing on making AI apps usable and instant.
+I'm a Fullstack Developer based in ***"Chennai"***, building high performance fullstack systems with AI as the core engine. I specialize in using FastAPI for asynchronous traffic, Rust for memory security and speed, and TypeScript for responsive UI's, focusing on making AI apps usable and instant.
 
 - 🔭 Currently building advanced full-stack projects with AI/ML integrations
 - 🌱 Learning Machine Learning to turn algorithms into usable software, plus AWS, Docker, and Nginx
@@ -31,20 +31,16 @@ I'm a Fullstack Developer based in ***"Chennai"***, building high-performance fu
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
 <div align="center">
-
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=deepanjan1011&show_icons=true&theme=dracula" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-seven-cyan-92.vercel.app/api?username=deepanjan1011&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=deepanjan1011&theme=dracula" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats-three.vercel.app/?user=deepanjan1011&theme=dracula&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
 <br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepanjan1011&layout=compact&theme=dracula" alt="Top Languages" />
-
+<img src="https://github-readme-stats-seven-cyan-92.vercel.app/api/top-langs/?username=deepanjan1011&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
