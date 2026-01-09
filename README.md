@@ -15,7 +15,7 @@ I'm a Fullstack Developer based in **"Chennai"**, building high performance full
         <li>⚡ Fun fact: I enjoy story-driven and competitive gaming, cinema, and family time!</li>
       </ul>
       <br/>
-      📝 <a href="https://drive.google.com/file/d/19M5l_0X6EUI0I9w3CORf29C1EX20uCVd/view">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
+      📝 <a href="https://drive.google.com/file/d/1ilMSsH5f2UEGLI566qNr_CJHmWuzWKma/view">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
     </td>
     <td valign="middle" width="40%" style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding GIF" width="100%" />
