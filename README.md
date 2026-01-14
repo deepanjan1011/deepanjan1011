@@ -8,11 +8,11 @@ I'm a Fullstack Developer based in **"Chennai"**, building high performance full
       <ul>
         <li>🔭 Currently building advanced full-stack projects with AI/ML integrations</li>
         <li>🌱 Learning Machine Learning to turn algorithms into usable software, plus AWS, Docker, and Nginx</li>
-        <li>👯 Looking to collaborate on open-source web apps, AI tools, or full-stack innovations</li>
-        <li>💬 Ask me about Next.js, React, TypeScript, Prisma, GenAI/LLMs, socket programming, or expense trackers</li>
+        <li>👯 Looking to collaborate on open source web apps, AI tools, or full-stack innovations</li>
+        <li>💬 Ask me about Next.js, React, TypeScript, Prisma, GenAI/LLMs, socket programming</li>
         <li>📫 Reach me: <a href="mailto:deepanjanpati@gmail.com">deepanjanpati@gmail.com</a></li>
         <li>😄 Pronouns: He/Him</li>
-        <li>⚡ Fun fact: I enjoy story-driven and competitive gaming, cinema, and family time!</li>
+        <li>⚡ Fun fact: I enjoy story driven and competitive gaming, cinema, and family time!</li>
       </ul>
       <br/>
       📝 <a href="https://drive.google.com/file/d/1ilMSsH5f2UEGLI566qNr_CJHmWuzWKma/view">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
