@@ -1,7 +1,5 @@
 ### Hi, I'm Deepanjan 👋
-
 I'm a founder and fullstack engineer based in Chennai, building AI-native products end to end. I ship fast, across domains — from climate tech to market intelligence to logistics. My current focus is on multi-agent systems and turning AI capabilities into products people can actually use.
-
 <table border="0">
   <tr>
     <td valign="top" width="60%" style="border: none;">
@@ -15,7 +13,7 @@ I'm a founder and fullstack engineer based in Chennai, building AI-native produc
       📝 <a href="https://drive.google.com/file/d/1CrjNwSoPM9dxjtMIDzUVkDrvHPUIKVA-/view?usp=sharing">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
     </td>
     <td valign="middle" width="40%" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding GIF" width="100%" />
+      <img src="./assets/coding.gif" alt="Coding GIF" width="100%" />
     </td>
   </tr>
 </table>
@@ -36,6 +34,7 @@ I'm a founder and fullstack engineer based in Chennai, building AI-native produc
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?logo=huggingface&logoColor=black&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
 ---
 
 ### 📌 Featured Work
@@ -43,10 +42,9 @@ I'm a founder and fullstack engineer based in Chennai, building AI-native produc
 | Project | What it does | Stack |
 |---------|-------------|-------|
 | **[Mirror](https://www.mirror.org.in/)** | Live AI-powered market research — early access | Next.js · FastAPI · LLMs |
-| **[HeatShield.ai](https://github.com/deepanjan1011/hotspots-V2)** | Urban heat vulnerability mapping, 24h AQI prediction & health risk scoring for Chennai | Next.js · Deck.gl · Mapbox · FastAPI · Random Forest · Google Earth Engine |
+| **[[HeatShield.ai](http://HeatShield.ai)](https://github.com/deepanjan1011/hotspots-V2)** | Urban heat vulnerability mapping, 24h AQI prediction & health risk scoring for Chennai | Next.js · [Deck.gl](http://Deck.gl) · Mapbox · FastAPI · Random Forest · Google Earth Engine |
 | **[PeerPass](https://github.com/deepanjan1011/PeerPass)** | Peer-to-peer file sharing built on raw Java sockets | Java · TypeScript |
 | **[TradeSync AI]()** | Autonomous email-based trade pre-clearance system | LangGraph · GPT-4o · Python |
-
 
 ---
 
