@@ -4,9 +4,9 @@ I'm a founder and fullstack engineer based in Chennai, building AI-native produc
   <tr>
     <td valign="top" width="60%" style="border: none;">
       <ul>
-        <li>🔭 Building <strong><a href="https://www.mirror.org.in/">Mirror</a></strong> — a live AI-powered market research platform (currently in waitlist)</li><br>
-        <li>⚡ 5 products shipped, 3 hackathon finals, 0 tutorial projects — everything here solves a real problem for real users</li><br>
-        <li>💬 Ask me about Next.js, FastAPI, multi-agent architectures, or shipping AI products</li><br>
+        <li>🔭 Building <strong><a href="https://www.mirror.org.in/">Mirror</a></strong> - a live AI-powered market research platform (currently in waitlist)</li><br><br>
+        <li>⚡ 5 products shipped, 3 hackathon finals, 0 tutorial projects - everything here solves a real problem for real users</li><br><br>
+        <li>💬 Ask me about Next.js, FastAPI, multi-agent architectures, or shipping AI products</li><br><br>
         <li>📫 Reach me: <a href="mailto:deepanjanpati@gmail.com">deepanjanpati@gmail.com</a></li>
       </ul>
       <br/>
@@ -41,8 +41,8 @@ I'm a founder and fullstack engineer based in Chennai, building AI-native produc
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **[Mirror](https://www.mirror.org.in/)** | Live AI-powered market research — early access | Next.js · FastAPI · LLMs |
-| **[[HeatShield.ai](http://HeatShield.ai)](https://github.com/deepanjan1011/hotspots-V2)** | Urban heat vulnerability mapping, 24h AQI prediction & health risk scoring for Chennai | Next.js · [Deck.gl](http://Deck.gl) · Mapbox · FastAPI · Random Forest · Google Earth Engine |
+| **[Mirror](https://www.mirror.org.in/)** | Live AI-powered market research - early access | Next.js · FastAPI · LLMs |
+| **[HeatShield.ai](http://HeatShield.ai)**| Urban heat vulnerability mapping, 24h AQI prediction & health risk scoring for Chennai | Next.js · [Deck.gl](http://Deck.gl) · Mapbox · FastAPI · Random Forest · Google Earth Engine |
 | **[PeerPass](https://github.com/deepanjan1011/PeerPass)** | Peer-to-peer file sharing built on raw Java sockets | Java · TypeScript |
 | **[TradeSync AI]()** | Autonomous email-based trade pre-clearance system | LangGraph · GPT-4o · Python |
 
