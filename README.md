@@ -42,10 +42,11 @@ I'm a founder and fullstack engineer based in Chennai, building AI-native produc
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| **[Mirror](https://www.mirror.org.in/)** | Live AI-powered market research — early access | Next.js · FastAPI · LLMs |
 | **[HeatShield.ai](https://github.com/deepanjan1011/hotspots-V2)** | Urban heat vulnerability mapping, 24h AQI prediction & health risk scoring for Chennai | Next.js · Deck.gl · Mapbox · FastAPI · Random Forest · Google Earth Engine |
 | **[PeerPass](https://github.com/deepanjan1011/PeerPass)** | Peer-to-peer file sharing built on raw Java sockets | Java · TypeScript |
 | **[TradeSync AI]()** | Autonomous email-based trade pre-clearance system | LangGraph · GPT-4o · Python |
-| **[Mirror](https://www.mirror.org.in/)** | Live AI-powered market research — early access | Next.js · FastAPI · LLMs |
+
 
 ---
 
