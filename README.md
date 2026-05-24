@@ -1,16 +1,17 @@
 ### Hi, I'm Deepanjan 👋
-I'm a founder and fullstack engineer based in Chennai, building AI-native products end to end. I ship fast, across domains — from climate tech to market intelligence to logistics. My current focus is on multi-agent systems and turning AI capabilities into products people can actually use.
+I'm a founder and Fullstack & AI Engineer based in Chennai, building AI-native products end to end. I ship fast, across domains — from climate tech to market intelligence to logistics. My current focus is on multi-agent systems and turning AI capabilities into products people can actually use.
 <table border="0">
   <tr>
     <td valign="top" width="60%" style="border: none;">
       <ul>
+        <br>
         <li>🔭 Building <strong><a href="https://www.mirror.org.in/">Mirror</a></strong> - a live AI-powered market research platform (currently in waitlist)</li><br><br>
         <li>⚡ 5 products shipped, 3 hackathon finals, 0 tutorial projects - everything here solves a real problem for real users</li><br><br>
         <li>💬 Ask me about Next.js, FastAPI, multi-agent architectures, or shipping AI products</li><br><br>
         <li>📫 Reach me: <a href="mailto:deepanjanpati@gmail.com">deepanjanpati@gmail.com</a></li>
       </ul>
       <br/>
-      📝 <a href="https://drive.google.com/file/d/1CrjNwSoPM9dxjtMIDzUVkDrvHPUIKVA-/view?usp=sharing">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
+      📝 <a href="https://drive.google.com/file/d/1N6zK6sIzD8ykHZkh3-vnUEjfRckyjHJ1/view">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
     </td>
     <td valign="middle" width="40%" style="border: none;">
       <img src="./assets/coding.gif" alt="Coding GIF" width="100%" />
