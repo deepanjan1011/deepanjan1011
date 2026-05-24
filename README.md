@@ -4,7 +4,6 @@ I'm a founder and Fullstack & AI Engineer based in Chennai, building AI-native p
   <tr>
     <td valign="top" width="60%" style="border: none;">
       <ul>
-        <br>
         <li>🔭 Building <strong><a href="https://www.mirror.org.in/">Mirror</a></strong> - a live AI-powered market research platform (currently in waitlist)</li><br><br>
         <li>⚡ 5 products shipped, 3 hackathon finals, 0 tutorial projects - everything here solves a real problem for real users</li><br><br>
         <li>💬 Ask me about Next.js, FastAPI, multi-agent architectures, or shipping AI products</li><br><br>
