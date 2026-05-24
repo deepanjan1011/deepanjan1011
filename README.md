@@ -10,7 +10,7 @@ I'm a founder and Fullstack & AI Engineer based in Chennai, building AI-native p
         <li>📫 Reach me: <a href="mailto:deepanjanpati@gmail.com">deepanjanpati@gmail.com</a></li>
       </ul>
       <br/>
-      📝 <a href="https://drive.google.com/file/d/1N6zK6sIzD8ykHZkh3-vnUEjfRckyjHJ1/view">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
+      📝 <a href="https://drive.google.com/file/d/1H_xfykTaAEKen967JUMkU3tvqnS0cANO/view">Resume</a> | <a href="https://deepanjan.dev/">Portfolio</a>
     </td>
     <td valign="middle" width="40%" style="border: none;">
       <img src="./assets/coding.gif" alt="Coding GIF" width="100%" />
