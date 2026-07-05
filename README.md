@@ -1,4 +1,3 @@
-### Hi, I'm Deepanjan 👋
 I'm a founder and Fullstack & AI Engineer based in Chennai, building AI-native products end to end. I ship fast, across domains — from climate tech to market intelligence to logistics. My current focus is on multi-agent systems and turning AI capabilities into products people can actually use.
 <table border="0">
   <tr>
